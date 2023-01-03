@@ -12,5 +12,5 @@ Made using
 - cheerio
 
 
-![[output.png]]
+
 
